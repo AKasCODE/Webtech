@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>
+BR Tag
+</title>
+<center><b>Arpit</b></center>
+</head>
+<body>
+<P>One of the tag used in html is <strong>br tag</strong>.<br>
+This tag is used to break the line in a paragraph.</p>  
+
+</body>
+</html>
