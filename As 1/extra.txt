@@ -1,0 +1,22 @@
+<p>Html contains several elements for defining text with a special meaning.<br>
+Tags used for formatting are:</p>
+
+<a href="#Bold Tag"> <<b>b> </b></a> <br>
+<a href="#Italic Tag"> <<i>i> </i></a> <br>
+<a href="#Underline Tag"> <<u>u> </u></a> <br>
+<a href="#Superscript">sup</a> <br>
+<a href="#Subscript">sub</a> <br>
+<a href="#Strong Tag>strong</a><>
+<a href="#Emphasized Tag> em </a></br>
+<a href="#Small Tag> small </a><br>
+<a href="#Delete Tag> del </a></br>
+<!-- a href="#Mark -->
+<!-- a href="#Strike --><hr>
+<section id="Bold Tag">
+<h3> 1. Bold Tag </h3>
+<P>bbbooolllddd </p><hr>
+<section id="Italic Tag">
+<h3>2. Italic Tag</h3>
+<p>iittaalliicc</p><hr>
+<section id="Underline Tag">
+<h3>3. Underline Tag</h3>
